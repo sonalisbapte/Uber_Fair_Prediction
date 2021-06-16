@@ -1,7 +1,7 @@
 # Uber_Fair_Prediction
 Design an algorithm which will tell the fare to be charged for a passenger
 
-# Uber Fare Prediction
+Uber Fare Prediction
 
 - DESCRIPTION
 
